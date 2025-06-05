@@ -1,0 +1,3 @@
+2025-06-05 15:02:55,853 - ERROR - Erro ao salvar resultados: [Errno 13] Permission denied: 'outputs\\resultados_nfs.xlsx'
+2025-06-05 15:13:08,323 - ERROR - Erro ao salvar resultados: [Errno 13] Permission denied: 'outputs\\resultados_nfs.xlsx'
+2025-06-05 15:18:21,031 - ERROR - Erro na execução principal: too many values to unpack (expected 2)

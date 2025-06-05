@@ -1,0 +1,41 @@
+# LlamaIndex Core
+llama-index==0.10.57
+llama-index-llms-ollama==0.1.5
+llama-index-embeddings-ollama==0.1.2
+
+# Processamento de PDF
+PyMuPDF==1.23.19
+pypdf==3.17.4
+
+# Manipulação de dados
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Utilitários
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# HTTP requests (para Ollama)
+requests==2.31.0
+httpx==0.25.2
+
+# Logging melhorado
+colorlog==6.8.0
+
+# Processamento de texto
+nltk==3.8.1
+spacy==3.7.2
+
+# Opcional: Para embeddings locais
+sentence-transformers==2.2.2
+langchain-community~=0.3.24
+langchain~=0.3.25
+langchain-openai~=0.3.19
+openai~=1.82.0
+fitz~=0.0.1.dev2
+pathlib~=1.0.1
+llama-index-core~=0.10.57
+Mail~=2.1.0
+selenium~=4.32.0
+PyAutoGUI~=0.9.54
+playwright~=1.52.0
